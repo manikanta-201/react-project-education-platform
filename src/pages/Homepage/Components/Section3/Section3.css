@@ -1,0 +1,71 @@
+
+
+
+.Websites1{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+
+
+.Websites2{
+    width: 100%;
+    height: 100%;
+    /* background-color: greenyellow; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pad: 40px;
+    flex-direction: column;
+    /* border: 3px solid blue; */
+    
+}
+
+
+.Websites2-divs{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.mack-img{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border:1px solid blueviolet; */
+}
+
+
+.mack-img img{
+    width: 100%;
+    height: 500px;
+}
+
+.mack-content{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content:center;
+    flex-direction: column;
+    gap: 25px;
+    /* border:3px solid red; */
+padding: 50px;
+font-size: 20px;
+}
+
+
+.mack-content button{
+    width: 130px;
+    height: 26px;
+    border-radius: 10px;
+    background-color: blue;
+    border: none;
+    color: white;
+}

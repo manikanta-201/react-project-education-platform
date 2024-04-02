@@ -1,0 +1,82 @@
+.herosection{
+    width: 100%;
+    height: 100%;
+    /* background-color:white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+padding: 30px 40px;
+gap: 20px;
+/* border: 1px solid red; */
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 40px;
+
+}
+.container img{
+    width: 100px;
+    height: 100px;
+   border: 50%;
+   border: gray;
+}
+
+.headingtag{
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headingtag{
+    font-size: 20px;
+    font-weight: 400;
+}
+.ptag{
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.path{
+    color: #FFFFFF;
+    
+}
+
+
+.bottom-cards{
+    width: 100%;
+    height: 100%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+/* border: 2px solid royalblue; */
+gap: 5px;
+    
+}
+
+.card1{
+    width: 35%;
+    display: flex;align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 7px;
+    color: rgb(185, 184, 184);
+    
+}
+
